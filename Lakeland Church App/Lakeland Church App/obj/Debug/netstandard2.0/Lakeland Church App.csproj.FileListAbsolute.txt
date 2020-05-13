@@ -1,0 +1,15 @@
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\bin\Debug\netstandard2.0\Lakeland Church App.deps.json
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\bin\Debug\netstandard2.0\Lakeland Church App.dll
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\bin\Debug\netstandard2.0\ref\Lakeland Church App.dll
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\bin\Debug\netstandard2.0\Lakeland Church App.pdb
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Lakeland Church App.AssemblyInfoInputs.cache
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Lakeland Church App.AssemblyInfo.cs
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Lakeland Church App.dll
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\ref\Lakeland Church App.dll
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Lakeland Church App.pdb
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Lakeland Church App.csprojAssemblyReference.cache
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Videos.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church App\Lakeland Church App\Lakeland Church App\obj\Debug\netstandard2.0\Video.xaml.g.cs
