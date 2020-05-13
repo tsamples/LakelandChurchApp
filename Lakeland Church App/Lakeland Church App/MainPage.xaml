@@ -9,10 +9,10 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to Lakeland Church" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-        <Button Text="Go To Video Page" Clicked="OnVideoPageButtonClicked" />
+        <Button Text="Go To Video Page" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Clicked="OnVideoPageButtonClicked" />
     </StackLayout>
     
 
